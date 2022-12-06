@@ -42,7 +42,7 @@
 
 // Напишите программу, которая принимает на вход координаты двух точек и находит расстояние между ними в 2D пространстве.
 
-// double Length(int xa, int ya, int xb, int yb)
+// double Length(double xa, double ya, double xb, double yb)
 // {
 //     double x = xb - xa;
 //     double y = yb - ya;
